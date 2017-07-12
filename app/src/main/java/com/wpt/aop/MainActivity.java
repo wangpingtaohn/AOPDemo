@@ -7,13 +7,13 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-    TextView textView;
+//    TextView textView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        textView.setText("");
+//        textView.setText("");
     }
 
 }
